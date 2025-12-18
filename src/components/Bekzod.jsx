@@ -2,7 +2,7 @@ import React from 'react'
 
 const Bekzod = () => {
   return (
-    <div> Hello Bekzod</div>
+    <div> Hello Bekzod nma gap</div>
   )
 }
 
